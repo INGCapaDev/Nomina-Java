@@ -9,7 +9,6 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.TextView;
 
-import org.jetbrains.annotations.NotNull;
 
 public class ReciboNominaActivity extends AppCompatActivity {
     private TextView lblNumRecibo;
