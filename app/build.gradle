@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.nomina'
+    namespace 'com.example.nominajava'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.nomina"
+        applicationId "com.example.nominajava"
         minSdk 26
         targetSdk 33
         versionCode 1

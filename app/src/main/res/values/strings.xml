@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Nomina</string>
+    <string name="app_name">NominaJava</string>
     <string name="strNumeroRecibo">Numero de recibo</string>
     <string name="strNombre">Nombre</string>
     <string name="strHorasTrabajadas">Horas Trabajadas</string>

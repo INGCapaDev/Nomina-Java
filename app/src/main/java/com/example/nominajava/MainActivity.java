@@ -1,4 +1,4 @@
-package com.example.nomina;
+package com.example.nominajava;
 
 import androidx.appcompat.app.AppCompatActivity;
 

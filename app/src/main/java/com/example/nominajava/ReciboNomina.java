@@ -1,6 +1,4 @@
-package com.example.nomina;
-
-import org.jetbrains.annotations.NotNull;
+package com.example.nominajava;
 
 public class ReciboNomina {
     private int numRecibo;

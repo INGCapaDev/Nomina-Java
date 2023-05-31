@@ -1,4 +1,4 @@
-package com.example.nomina;
+package com.example.nominajava;
 
 import org.junit.Test;
 
