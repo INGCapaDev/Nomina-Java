@@ -9,6 +9,55 @@ public class ReciboNomina {
     private double horasTrabExtras;
     private int puesto;
     private double impuestoPorc;
+    public String getNombre() {
+        return nombre;
+    }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public double getHorasTrabNormal() {
+        return horasTrabNormal;
+    }
+
+    public void setHorasTrabNormal(double horasTrabNormal) {
+        this.horasTrabNormal = horasTrabNormal;
+    }
+
+    public double getHorasTrabExtras() {
+        return horasTrabExtras;
+    }
+
+    public void setHorasTrabExtras(double horasTrabExtras) {
+        this.horasTrabExtras = horasTrabExtras;
+    }
+
+    public int getPuesto() {
+        return puesto;
+    }
+
+    public void setPuesto(int puesto) {
+        this.puesto = puesto;
+    }
+
+    public double getImpuestoPorc() {
+        return impuestoPorc;
+    }
+
+    public void setImpuestoPorc(double impuestoPorc) {
+        this.impuestoPorc = impuestoPorc;
+    }
+
+    public int getNumRecibo() {
+        return numRecibo;
+    }
+
+    public void setNumRecibo(int numRecibo) {
+        this.numRecibo = numRecibo;
+    }
+
+
 
 public ReciboNomina(int numRecibo, String nombre, double horasTrabNormal, double horasTrabExtras, int puesto, double impuestoPorc){
     this.numRecibo = numRecibo;
